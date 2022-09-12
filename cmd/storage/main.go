@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gempellm/storage/internal/storage"
+	"github.com/gempellm/storage/v2/internal/storage"
 )
 
 func main() {

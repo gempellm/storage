@@ -1,4 +1,4 @@
-module github.com/gempellm/storage
+module github.com/gempellm/storage/v2
 
 go 1.19
 

@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/gempellm/storage/internal/file"
+	"github.com/gempellm/storage/v2/internal/file"
 	"github.com/google/uuid"
 )
 
